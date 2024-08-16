@@ -13,13 +13,13 @@
 Here are some screenshots of Storky in action:
 
 ### Home Screen
-![Home Screen](path_to_your_image/home_screen.png)
+![Home Screen](https://github.com/me-vivu/storky/blob/main/assets/images/home1.jpeg)
 
 ### Task Scheduling
-![Task Scheduling](path_to_your_image/task_scheduling.png)
+![Task Scheduling](https://github.com/me-vivu/storky/blob/main/assets/images/action.jpeg)
 
 ### Daily Timeline
-![Daily Timeline](path_to_your_image/daily_timeline.png)
+![Daily Timeline](https://github.com/me-vivu/storky/blob/main/assets/images/home.jpeg)
 
 ## Installation
 
